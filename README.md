@@ -4,8 +4,7 @@ A time management tool for revision.
 You can add subjects, set revision time goals and track your progress for each subject.
 The program saves your log to file so you can come back at a later date.
 
-Download the .py file and place it in a folder.
-Next, create a .txt file called `subjects.txt` in the folder.
+Download the .py file and place it in a folder. Next, create a .txt file called `subjects.txt` in the folder.
 Then, right click on the .py file and find the option 'Create Shortcut', and move the resulting shortcut somewhere on the desktop.
 Double-clicking on the shortcut should open the tool.
 
